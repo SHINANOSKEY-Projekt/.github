@@ -1,2 +1,2 @@
-# .github
-SHINANOSKEY-Projekt 
+# SHINANOSKEY-Projekt
+SHINANOSKEYと云うMisskey派生フォークを開発しています
