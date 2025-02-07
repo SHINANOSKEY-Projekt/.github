@@ -1,5 +1,6 @@
 ## SHINANOSKEY-Projekt
-SHINANOSKEYと云うMisskey派生フォークを開発しています。  
+信濃眞伊のMisskey関係のプロジェクトです。  
+現在はSHINANOSKEYと云うMisskey派生フォークを開発しています。  
 ## メンバー
 - [信濃眞伊](https://github.com/DA-TENSHI)
 ## プロジェクト
